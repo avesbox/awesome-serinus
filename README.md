@@ -36,11 +36,11 @@ Serinus is the opinionated Dart backend framework, built on top of the Dart ecos
 
 ## Plugins
 
-- [serinus_openapi](https://github.com/francescovallone/serinus/tree/main/packages/serinus_openapi)(official) - Plugin to generate OpenAPI documentation for your Serinus application.
-- [serinus_schedule](https://github.com/francescovallone/serinus/tree/main/packages/serinus_schedule)(official) - Plugin to schedule tasks in your Serinus application.
-- [serinus_serve_static](https://github.com/francescovallone/serinus/tree/main/packages/serinus_serve_static)(official) - Plugin to serve static files in your Serinus application.
-- [serinus_frontier](https://github.com/francescovallone/serinus/tree/main/packages/serinus_frontier)(official) - Plugin to create a Passport-like authentication system in your Serinus application.
-- [serinus_loxia](https://github.com/avesbox/serinus_loxia)(official) - Plugin to integrate Loxia, a powerful ORM for Dart, into your Serinus application.
-- [serinus_config](https://github.com/francescovallone/serinus/tree/main/packages/serinus_config)(official) - Plugin to manage configuration in your Serinus application.
-- [serinus_microservices](https://github.com/francescovallone/serinus/tree/main/packages/serinus_microservices)(official) - Plugin to build microservices with Serinus.
-- [serinus_test](https://github.com/francescovallone/serinus/tree/main/packages/serinus_test)(official) - Plugin to test your Serinus application.
+- [serinus_openapi](https://github.com/francescovallone/serinus/tree/main/packages/serinus_openapi) (official) - Plugin to generate OpenAPI documentation for your Serinus application.
+- [serinus_schedule](https://github.com/francescovallone/serinus/tree/main/packages/serinus_schedule) (official) - Plugin to schedule tasks in your Serinus application.
+- [serinus_serve_static](https://github.com/francescovallone/serinus/tree/main/packages/serinus_serve_static) (official) - Plugin to serve static files in your Serinus application.
+- [serinus_frontier](https://github.com/francescovallone/serinus/tree/main/packages/serinus_frontier) (official) - Plugin to create a Passport-like authentication system in your Serinus application.
+- [serinus_loxia](https://github.com/avesbox/serinus_loxia) (official) - Plugin to integrate Loxia, a powerful ORM for Dart, into your Serinus application.
+- [serinus_config](https://github.com/francescovallone/serinus/tree/main/packages/serinus_config) (official) - Plugin to manage configuration in your Serinus application.
+- [serinus_microservices](https://github.com/francescovallone/serinus/tree/main/packages/serinus_microservices) (official) - Plugin to build microservices with Serinus.
+- [serinus_test](https://github.com/francescovallone/serinus/tree/main/packages/serinus_test) (official) - Plugin to test your Serinus application.
